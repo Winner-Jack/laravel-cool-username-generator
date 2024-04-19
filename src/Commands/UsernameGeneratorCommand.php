@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace WinnerJack\UsernameGenerator\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class UsernameGeneratorCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-cool-username-generator';
 
     public $description = 'My command';
 

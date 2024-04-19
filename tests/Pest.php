@@ -1,5 +1,5 @@
 <?php
 
-use VendorName\Skeleton\Tests\TestCase;
+use WinnerJack\UsernameGenerator\Tests\TestCase;
 
-uses(TestCase::class)->in(__DIR__);
+uses(WinnerJack\UsernameGenerator\Tests\TestCase::class)->in(__DIR__);
