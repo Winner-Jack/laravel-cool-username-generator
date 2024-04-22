@@ -26,7 +26,7 @@ php artisan vendor:publish --tag="laravel-cool-username-generator-config"
 ```php
 use WinnerJack\UsernameGenerator\Facades\UsernameGenerator;
 
-$username = UsernameGenerator::generate(); // returns a random username e.g. "ritzy-giraffe""
+$username = UsernameGenerator::generate(); // returns a random username e.g. "ritzy-giraffe"
 ```
 
 ## Testing
